@@ -1,0 +1,44 @@
+{
+  "customers": [
+    {
+      "id": 1,
+      "firstName": "John",
+      "lastName": "Doe",
+      "email": "johndoe@gmail.com",
+      "age": 30,
+      "phoneNumber": "+254712345678"
+    },
+    {
+      "id": 2,
+      "firstName": "Mary",
+      "lastName": "Doe",
+      "email": "marydoe@gmail.com",
+      "age": 30,
+      "phoneNumber": "+254712345678"
+    },
+    {
+      "id": 3,
+      "firstName": "Mark",
+      "lastName": "Doe",
+      "email": "markdoe@gmail.com",
+      "age": 30,
+      "phoneNumber": "+254712345678"
+    },
+    {
+      "id": 4,
+      "firstName": "Joseph",
+      "lastName": "Wambua",
+      "email": "wambuajoseph756@gmail.com",
+      "age": 30,
+      "phoneNumber": "+254712345678"
+    },
+    {
+      "firstName": "Anne",
+      "lastName": "Doe",
+      "email": "annedoe@gmail.com",
+      "age": 30,
+      "phoneNumber": "+254723456765",
+      "id": 6
+    }
+  ]
+}
